@@ -1,0 +1,7 @@
+{
+  "name": "Awaaz Setu",
+  "description": "Voice-first multilingual government welfare scheme discovery and grievance filing platform for citizens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
